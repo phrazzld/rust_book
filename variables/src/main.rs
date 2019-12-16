@@ -1,9 +1,5 @@
 fn main() {
-    let x = 5;
+    let x = 2.0; // f64
 
-    let x = x + 1;
-
-    let x = x * 2;
-
-    println!("The value of x is: {}", x);
+    let y: f32 = 3.0; // f32
 }
